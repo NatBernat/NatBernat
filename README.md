@@ -40,3 +40,13 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200"/>
 </div>
+
+<h3 align="center">
+  You can find me at
+</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bernat-arcusa-rubio/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
