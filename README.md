@@ -33,8 +33,8 @@
 <section align="center">
 <h3>Stats 📈</h3>
     
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatBernat&theme=vue)<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatBernat&layout=compact&theme=vue)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatBernat&theme=dark&background=000000)](https://git.io/streak-stats) <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatBernat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 </section>
   
  <div id="header" align="center">
