@@ -2,7 +2,7 @@
 
 <section align="center">
     <h3>About me 😎</h3>
-    <p>Full-stack developer, specialized in building web apps through MERN stack. <br />Interested in always learning and growing as a developer and as a human being <br /> Currently living in Sitges, Barcelona, Spain.</p>
+    <p>I'm a Full-stack developer, specialized in building web apps through MERN stack.<br />Interested in always learning and growing as a developer and as a human being.<br /> Currently living in Sitges, Barcelona, Spain.</p>
 </section>
 
 ---
