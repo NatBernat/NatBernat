@@ -38,6 +38,10 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NatBernat&theme=vue-dark&background=273849)](https://git.io/streak-stats) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatBernat&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)  
 </section>
+
+<section align="center">
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="bernat-arcusa-rubio" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/bernat-arcusa-rubio/en?trk=profile-badge">Bernat Arcusa Rubio</a></div>
+</section>              
   
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="200"/>
